@@ -1,6 +1,6 @@
 ### Hola 👋, Me llamo Saul
 #### Pasatiempos
-![Pasatiempos](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Pasatiempos]
 
 Yo generé este Readme , con la finalidad de mostrar los pasatiempos que he obtenido , así como también los horarios de estos.
 
