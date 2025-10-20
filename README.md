@@ -1,6 +1,5 @@
 ### Hola 👋, Me llamo Saul
 #### Pasatiempos
-![Pasatiempos]
 
 Yo generé este Readme , con la finalidad de mostrar los pasatiempos que he obtenido , así como también los horarios de estos.
 
